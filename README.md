@@ -62,8 +62,8 @@ Start the Client
   
 # Features
 
-### Authenticaton
-![](https://github.com/Ajeetesh2003/Chat-App/blob/main/screenshots/login.PNG)
+### Authentication
+![](https://github.com/Ajeetesh2003/ChatSter2.0/blob/master/screenshots/login.png)
 ![](https://github.com/Ajeetesh2003/Chat-App/blob/main/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
 ![](https://github.com/Ajeetesh2003/Chat-App/blob/main/screenshots/real-time.PNG)
