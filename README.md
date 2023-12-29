@@ -1,15 +1,7 @@
-# Author Information
+# ChatSter2.0
 
-**Name:** Ajeetesh Awadh
-
-**University/College:** Indian Institute of Technology Patna
-
-**Department:** Electrical and Electronics Engineering
-
-# Talk-A-Tive
-
-Talk-a-tive is a Full Stack Chatting Web-App.
-It uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
+ChatSter2.0 is a Full Stack Chatting Web-Application.
+It uses Socket.io for real-time communication and stores user details in encrypted format in Mongo DB Database. This project is an upgraded version of the previous project (ChatSter) with many additional and user-friendly features.
 ## Tech Stack
 
 **Client-Side:** React JS with Chakra UI
@@ -18,21 +10,18 @@ It uses Socket.io for real time communication and stores user details in encrypt
 
 **Database:** Mongo DB
   
-## Demo
-
-![](https://github.com/Ajeetesh2003/Chat-App/blob/main/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/Ajeetesh2003/Chat-App
+  git clone https://github.com/Ajeetesh2003/ChatSter2.0
 ```
 
 Go to the project directory
 
 ```bash
-  cd Chat-App
+  cd ChatSter2.0
 ```
 
 Install dependencies
@@ -54,7 +43,7 @@ Start the server
 Start the Client
 
 ```bash
-  //open now terminal
+  //open new terminal
   cd frontend
   npm start
 ```
@@ -62,24 +51,28 @@ Start the Client
   
 # Features
 
-### Authentication
+### User Authentication
 ![](https://github.com/Ajeetesh2003/ChatSter2.0/blob/master/screenshots/login.png)
-![](https://github.com/Ajeetesh2003/Chat-App/blob/main/screenshots/signup.PNG)
+![](https://github.com/Ajeetesh2003/ChatSter2.0/blob/master/screenshots/signup.png)
 ### Real Time Chatting with Typing indicators
-![](https://github.com/Ajeetesh2003/Chat-App/blob/main/screenshots/real-time.PNG)
+![](https://github.com/Ajeetesh2003/ChatSter2.0/blob/master/screenshots/chat.png)
 ### One to One chat
-![](https://github.com/Ajeetesh2003/Chat-App/blob/main/screenshots/mainscreen.PNG)
+![](https://github.com/Ajeetesh2003/ChatSter2.0/blob/master/screenshots/one-one-chat.png)
 ### Search Users
-![](https://github.com/Ajeetesh2003/Chat-App/blob/main/screenshots/search.PNG)
+![](https://github.com/Ajeetesh2003/ChatSter2.0/blob/master/screenshots/Search.png)
 ### Create Group Chats
-![](https://github.com/Ajeetesh2003/Chat-App/blob/main/screenshots/new%20grp.PNG)
+![](https://github.com/Ajeetesh2003/ChatSter2.0/blob/master/screenshots/groupchat.png)
 ### Notifications 
-![](https://github.com/Ajeetesh2003/Chat-App/blob/main/screenshots/group%20%2B%20notif.PNG)
-### Add or Remove users from group
-![](https://github.com/Ajeetesh2003/Chat-App/blob/main/screenshots/add%20rem.PNG)
+![](https://github.com/Ajeetesh2003/ChatSter2.0/blob/master/screenshots/notification.png)
+### Admin Control in groups
+![](https://github.com/Ajeetesh2003/ChatSter2.0/blob/master/screenshots/admincontrol.png)
 
-## Made By
+# Author Information
 
-- [@Ajeetesh2003](https://github.com/Ajeetesh2003)
+**Name:** Ajeetesh Awadh
+
+**University/College:** Indian Institute of Technology Patna
+
+**Department:** Electrical and Electronics Engineering
 
   
